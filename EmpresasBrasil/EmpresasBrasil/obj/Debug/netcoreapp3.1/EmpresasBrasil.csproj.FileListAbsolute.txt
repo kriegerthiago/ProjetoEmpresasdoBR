@@ -1,0 +1,13 @@
+C:\Users\Thiago\source\repos\EmpresasBrasil\EmpresasBrasil\bin\Debug\netcoreapp3.1\EmpresasBrasil.exe
+C:\Users\Thiago\source\repos\EmpresasBrasil\EmpresasBrasil\bin\Debug\netcoreapp3.1\EmpresasBrasil.deps.json
+C:\Users\Thiago\source\repos\EmpresasBrasil\EmpresasBrasil\bin\Debug\netcoreapp3.1\EmpresasBrasil.runtimeconfig.json
+C:\Users\Thiago\source\repos\EmpresasBrasil\EmpresasBrasil\bin\Debug\netcoreapp3.1\EmpresasBrasil.runtimeconfig.dev.json
+C:\Users\Thiago\source\repos\EmpresasBrasil\EmpresasBrasil\bin\Debug\netcoreapp3.1\EmpresasBrasil.dll
+C:\Users\Thiago\source\repos\EmpresasBrasil\EmpresasBrasil\bin\Debug\netcoreapp3.1\EmpresasBrasil.pdb
+C:\Users\Thiago\source\repos\EmpresasBrasil\EmpresasBrasil\obj\Debug\netcoreapp3.1\EmpresasBrasil.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\EmpresasBrasil\EmpresasBrasil\obj\Debug\netcoreapp3.1\EmpresasBrasil.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\EmpresasBrasil\EmpresasBrasil\obj\Debug\netcoreapp3.1\EmpresasBrasil.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\EmpresasBrasil\EmpresasBrasil\obj\Debug\netcoreapp3.1\EmpresasBrasil.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\EmpresasBrasil\EmpresasBrasil\obj\Debug\netcoreapp3.1\EmpresasBrasil.dll
+C:\Users\Thiago\source\repos\EmpresasBrasil\EmpresasBrasil\obj\Debug\netcoreapp3.1\EmpresasBrasil.pdb
+C:\Users\Thiago\source\repos\EmpresasBrasil\EmpresasBrasil\obj\Debug\netcoreapp3.1\EmpresasBrasil.genruntimeconfig.cache
